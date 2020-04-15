@@ -16,8 +16,11 @@ The lesson and two necessary image files are attached to this email. The lesson 
 1. Navigate to the github repository for this project
 2. Clone the repository or download the lessons you want
 3. IF you have jupyter notebook installed on your computer:
-	b. Ensure you have python3 and numpy installed
-	a. Open the jupyter notebook file (e.g., "Lesson1.ipynb")
+
+	a. Ensure you have python3 and numpy installed
+
+	b. Open the jupyter notebook file (e.g., "Lesson1.ipynb")
+	
 4. IF you don't have jupyter notebook installed on your computer:
 	a. Email the developer at kaylaiacovino@gmail.com to request a login to the PetroPy server
 	b. Once you have your user name, open a browser and go to http://142.93.195.231/
